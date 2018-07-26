@@ -1,0 +1,2 @@
+# AdvancedRecyclerViewAdapter
+RecyclerView二次封装Adapter,支持添加头布局尾部局空布局
